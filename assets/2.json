@@ -1,0 +1,19 @@
+{
+    "name": "ape in the beach",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+            "address": "EuKaC9gghYG3P7wxH5vFXs1rDrfh3fwoRT2sj6voM1YZ",
+          "share": 100
+        }
+      ]
+    }
+  }

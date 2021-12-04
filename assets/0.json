@@ -1,0 +1,19 @@
+{
+  "name": "ape in the mountain",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "EuKaC9gghYG3P7wxH5vFXs1rDrfh3fwoRT2sj6voM1YZ",
+        "share": 100
+      }
+    ]
+  }
+}
